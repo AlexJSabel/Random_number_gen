@@ -8,7 +8,7 @@
 
 // Generate Password
     function generatepassword() {
-// Look at the charType
+// Look at the inputType
       var inputSet = "";
       var inputTypelower = inputType.toLowerCase();
     if( inputTypelower === "lowercase" ) {
